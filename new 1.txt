@@ -1,0 +1,7 @@
+<pelicula>
+	<titulo>Star Wars</titulo>
+	<genero>Ciencia Ficción</genero>
+	<premios>Oscars</premios>
+	<sinopsis>blblalvla</sinopsis>
+	
+</pelicula>
